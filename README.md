@@ -12,7 +12,7 @@ systems.
 
 This repository contains the code and  sample data (i2b2-2010) data sets used in the accepted paper "Bidirectional LSTM-CRF for Clinical Concept Extraction"  at Clinical Natural Language Processing Workshop at COLING 2016 Osaka, Japan. December 11, 2016
 ## If you use this code  in your scientific publications  kindly cite the papers below .
-["Bidirectional LSTM-CRF for Clinical Concept Extraction"  at Clinical Natural Language Processing Workshop at COLING 2016 Osaka, Japan. December 11, 2016](https://arxiv.org/abs/1609.07585)
+["Bidirectional LSTM-CRF for Clinical Concept Extraction"  at Clinical Natural Language Processing Workshop at COLING 2016 Osaka, Japan. December 11, 2016](https://arxiv.org/submit/1697853/view)
 
 The code utilizes GloVe and Word2Vec pre-trained embeddings file to obtain vector representations.
 
