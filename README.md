@@ -1,5 +1,4 @@
-# Bidirectional-LSTM-CRF-for-Clinical-Concept-Extraction-
-Bidirectional LSTM-CRF for Clinical Concept Extraction using i2b2-2010 data
+# Bidirectional-LSTM-CRF-for-Clinical-Concept-Extraction
 
 Extraction of concepts present in patient clinical records is an essential step in clinical research.
 The 2010 i2b2/VA Workshop on Natural Language Processing Challenges for clinical records
