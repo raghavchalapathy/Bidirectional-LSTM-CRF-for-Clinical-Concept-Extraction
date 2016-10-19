@@ -14,6 +14,8 @@ This repository contains the code and  sample data (i2b2-2010) data sets used in
 ## If you use this code  in your scientific publications  kindly cite the papers below .
 ["Bidirectional LSTM-CRF for Clinical Concept Extraction"  at Clinical Natural Language Processing Workshop at COLING 2016 Osaka, Japan. December 11, 2016](https://arxiv.org/abs/1609.07585)
 
+The code utilizes GloVe and Word2Vec pre-trained embeddings file to obtain vector representations.
+
 
 ##If you plan to use the  data(i2b2-2010) 
 Please follow the instructions ["here"](https://www.i2b2.org/NLP/DataSets/Agreement.php)
@@ -29,7 +31,7 @@ To use the dnr, you need Python 2.7, with Numpy and Theano installed.
 The fastest way to use the dnr  is to use one of the pretrained models:
 
 ```
-./dnr.py --model models/english/ --input input.txt --output output.txt
+.tagger/conceptExtractor.py --model models/english/ --input input.txt --output output.txt
 ```
 
 The input file should contain one sentence by line, and they have to be tokenized.
