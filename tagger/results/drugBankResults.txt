@@ -1,0 +1,7 @@
+dropout: 0.5| char_dim:  |25| char_lstm_dim:  25 word_dim: 100 |word_lstm_dim: 100 | Best Dev Score: 78.14 | Best Test Score: 68.71
+dropout: 0.5| char_dim:  |25| char_lstm_dim:  25 word_dim: 100 |word_lstm_dim: 50 | Best Dev Score: 79.3 | Best Test Score: 60.08
+dropout: 0.5| char_dim:  |25| char_lstm_dim:  25 word_dim: 100 |word_lstm_dim: 200 | Best Dev Score: 79.4 | Best Test Score: 57.66
+dropout: 0.5| char_dim:  |25| char_lstm_dim:  25 word_dim: 50 |word_lstm_dim: 100 | Best Dev Score: 78.0 | Best Test Score: 67.29
+dropout: 0.5| char_dim:  |25| char_lstm_dim:  25 word_dim: 50 |word_lstm_dim: 50 | Best Dev Score: 78.98 | Best Test Score: 71.01
+dropout: 0.5| char_dim:  |25| char_lstm_dim:  25 word_dim: 50 |word_lstm_dim: 200 | Best Dev Score: 77.65 | Best Test Score: 67.04
+dropout: 0.5| char_dim:  |25| char_lstm_dim:  25 word_dim: 200 |word_lstm_dim: 100 | Best Dev Score: 74.56 | Best Test Score: 60.13

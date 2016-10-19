@@ -1,0 +1,7 @@
+dropout: 0.5| char_dim:  |25| char_lstm_dim:  25 word_dim: 100 |word_lstm_dim: 100 | Best Dev Score: 0.0 | Best Test Score: 0.0
+dropout: 0.5| char_dim:  |25| char_lstm_dim:  25 word_dim: 100 |word_lstm_dim: 50 | Best Dev Score: 0.0 | Best Test Score: 0.0
+dropout: 0.5| char_dim:  |25| char_lstm_dim:  25 word_dim: 100 |word_lstm_dim: 200 | Best Dev Score: 0.0 | Best Test Score: 0.0
+dropout: 0.5| char_dim:  |25| char_lstm_dim:  25 word_dim: 50 |word_lstm_dim: 100 | Best Dev Score: 0.0 | Best Test Score: 0.0
+dropout: 0.5| char_dim:  |25| char_lstm_dim:  25 word_dim: 50 |word_lstm_dim: 50 | Best Dev Score: 0.0 | Best Test Score: 0.0
+dropout: 0.5| char_dim:  |25| char_lstm_dim:  25 word_dim: 50 |word_lstm_dim: 200 | Best Dev Score: 0.0 | Best Test Score: 0.0
+dropout: 0.5| char_dim:  |25| char_lstm_dim:  25 word_dim: 200 |word_lstm_dim: 100 | Best Dev Score: 0.0 | Best Test Score: 0.0

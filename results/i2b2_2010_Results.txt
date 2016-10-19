@@ -1,0 +1,4 @@
+dropout: 0.5| char_dim:  |25| char_lstm_dim:  25 word_dim: 100 |word_lstm_dim: 100 | Best Dev Score: 49.61 | Best Test Score: 46.33
+dropout: 0.5| char_dim:  |25| char_lstm_dim:  25 word_dim: 100 |word_lstm_dim: 100 | Best Dev Score: 49.4 | Best Test Score: 47.27
+dropout: 0.5| char_dim:  |25| char_lstm_dim:  25 word_dim: 100 |word_lstm_dim: 50 | Best Dev Score: 50.14 | Best Test Score: 48.7
+dropout: 0.5| char_dim:  |25| char_lstm_dim:  25 word_dim: 100 |word_lstm_dim: 200 | Best Dev Score: 46.56 | Best Test Score: 44.91

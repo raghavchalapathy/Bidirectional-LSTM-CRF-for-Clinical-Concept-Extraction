@@ -1,0 +1,6 @@
+processed 11566 tokens with 841 phrases; found: 803 phrases; correct: 688.
+accuracy:  97.60%; precision:  85.68%; recall:  81.81%; FB1:  83.70
+            Brand: precision:  83.33%; recall:  62.50%; FB1:  71.43  6
+             Drug: precision:  89.87%; recall:  83.95%; FB1:  86.81  454
+           Drug_n: precision:  88.17%; recall:  84.93%; FB1:  86.52  262
+            Group: precision:  54.32%; recall:  58.67%; FB1:  56.41  81

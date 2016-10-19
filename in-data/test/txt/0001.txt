@@ -1,0 +1,173 @@
+﻿Admission Date :
+2012-10-31
+Discharge Date :
+2012-11-07
+Date of Birth :
+1941-03-23
+Sex : 
+M
+Service :
+MEDICINE
+Allergies : 
+Nsaids/Anti-Inflammatory Classifier / Vancomycin
+Attending : 
+Kristie R. Hamby , M.D. 
+Chief Complaint :
+CC : Antonio M. Z. Eddings , M.D. 
+Major Surgical or Invasive Procedure :
+Mesenteric angiograpm w/ coil embolization of bleeding vessel .
+Sigmoidoscopy .
+Colonoscopy .
+History of Present Illness :
+HPI: Pt is a 71 y/o male with h/o dm2 , cad s/p cabg , DVT/PE on long term anti-coagulation , ulcerative colitis on Asacol presents with brbpr starting at 9am of the morning of admission .
+He 'd been having lower abdominal pain for approximately the past week , a symptom for which he 's been admitted in the past .
+His PCP had recently started ciprofloxacin for a UTI . 
+At 9am the morning of admission he passed a large , bloody bowel movement and came to the Michael . There , his vitals were intially stable with a hct of 36.7 , though he was felt to be hypovolemic and this hemoconcentrated ; his previous hct was 39 about five months ago .
+He refused an NG lavage .
+Although an initial DRE showed only clot , he later passed a large , bloody bowel movement , and his bp nadired to the low 90's but rested there only transiently and easily rebounded to the 130's-140's with fluid ; he then went to angiography for a tagged RBC scan where they found and embolized two vessels to the sigmoid colon .
+His HCT had dropped from 36.7 to 30.8 despite 2U PRBC and 3 U FFP .
+Is called out of the FICU as has been been HD and stable HCT .
+Currently denies CP , SOB , abd pain or continued BRBPR .
+Past Medical History :
+PMH :
+1.) DM-2  
+2.) CAD s/p 3v-CABG 2003 and subsequent stenting of SVG and LIMA
+3.) CHF with EF 30-35% on 07-10 echo
+4.) Right parietal intracranial bleeding following 1996 cardiac cath
+5.) LBBB
+6.) Sinus node dysfunction s/p pacemaker
+7.) H/O DVT ( right sided ) and subsequent PE , put onto lifetime warfarin
+8.) Ulcerative colitis
+PSH :
+1.) C4-7 anterior discectomies
+2.) CABG 2003
+3.) R intracerebral hemorrhage drainage 
+Social History :
+SocHx : Mr Peres generally lives with his wife but has spent a great deal of time recently at rehab .
+He has no h/o ETOH/IVDA but quit tob 15 years ago .
+Family History :
+Noncontributory . 
+Physical Exam :
+VS 98.4 , 62 , 103/37 , 15 97%2L
+gen - lying in bed , NAD
+heent - anicteric sclera , op clear with mmm
+neck - jvd flat
+cv - rrr , s1s2 , no m/r/g
+pul - CTAB without rales
+abd - soft , minimally distended , nt , no rebound/guarding , nabs
+extrm - trace edema at ankles , no cyanosis , warm/dry 
+Pertinent Results :
+2012-10-31 05:47PM URINE
+COLOR - Straw APPEAR - Clear SP Marquez - 1.021
+2012-10-31 05:47PM URINE
+BLOOD - LG NITRITE - NEG PROTEIN - NEG
+GLUCOSE - NEG KETONE - NEG BILIRUBIN - NEG UROBILNGN - NEG PH - 7.0 LEUK - NEG
+2012-10-31 05:47PM URINE
+RBC-21-50* WBC-0-2 BACTERIA - FEW
+YEAST - NONE EPI - <1
+2012-10-31 02:32PM
+LACTATE - 1.8
+2012-10-31 12:20PM
+GLUCOSE - 197* UREA N-25* CREAT - 0.8 SODIUM - 141
+POTASSIUM - 3.7 CHLORIDE - 105 TOTAL CO2 - 22 ANION GAP - 18
+2012-10-31 12:20PM
+WBC - 5.6 RBC - 4.35* HGB - 12.6* HCT - 36.7* MCV - 84
+MCH - 28.9 MCHC - 34.3 RDW - 15.7*
+2012-10-31 12:20PM
+NEUTS - 80.5* LYMPHS - 13.1* MONOS - 3.5 EOS - 2.5
+BASOS - 0.4
+2012-10-31 12:20PM
+POIKILOCY - 1+ MICROCYT - 1+
+2012-10-31 12:20PM
+PLT COUNT - 102*
+2012-10-31 12:20PM
+PT - 20.5* PTT - 29.4 INR(PT) - 3.0
+GI BLEEDING STUDY
+2012-10-31
+IMPRESSION : Increased tracer activity demonstrated within the left lower quadrant , most likely sigmoid colonic loops of bowel , consistent with active bleeding .
+CT ABDOMEN W/CONTRAST
+2012-10-31 3:27 PM
+IMPRESSION :
+1. No evidence of colitis or other bowel pathology present to explain the patient 's bright red blood per rectum .
+2. Stable appearance of left adrenal fat-containing lesion consistent with a myelolipoma .
+3. Stable appearance of hypodense lesion within the caudate lobe of the liver , too small to fully characterize .
+4. Subcentimeter attenuation lesion within the lower pole of the right kidney , too small to characterize .
+5. 3-mm noncalcified pulmonary nodule within the right lower lobe . 
+If the patient does not have a history of a primary malignancy , followup CT of the chest in 1 year is recommended to evaluate for stability of this finding .
+Brief Hospital Course :
+Initial A/P :
+71 y/o male with dm2 , cad , chf , uc presents with one week of lower abdominal pain and 2 episodes of brpbr on the day of admission .
+# BRBPR -- The patient was in the intensive care unit given his lower GI bleed .
+An angiography showed bleeding in two vessels off of the Minnie supplying the sigmoid that were succesfully embolized .
+The patient was transfused from a Hct 29 to 34 on the day of discharge .
+His coumadin was held during his stay given his acute bleed but restarted per his PCP with the guidance of GI on the day of discharge .
+- The patient underwent a flex sigmoidoscopy on Friday , 11-02 , which showed old blood in the rectal vault but no active source of bleeding .
+Given this , it was advised that the patient have a colonoscopy to rule out further bleeding .
+- The patient had a colonoscopy on Monday 11-05 but unfortunately , was unable to complete the study as his bowel 
+prep was inadequate .
+Therefore , he had a repeat colonoscopy on 11-06 which showed expected mucosal signs of moderate ulcerative colitis , no polyps , w/ 8 mm ulcer at junction of distal descending colon and sigmoid colon .
+- Biopsies were obtained during his colonoscopy and he should follow up with gastroenterology for the results .
+# Ulcerative colitis -- The patient 's Asacol was originally held but restarted the day prior to discharge per GI .
+# CAD/CHF - The patient was restarted on his home regimen prior to discharge as it was held temporarily given his acute GI bleed .
+The exception is that per his PCP , Jason aspirin will be held for 2 weeks given that he was restarted on coumadin with 
+his risk of bleeding .
+# DM-2 -- The patient was maintained on his home insulin regimen .
+# h/o DVT/PE :
+Coumadin was initially held .
+It was unclear at first as to why the patient required life-long anticoagulation .
+After discussing this with his PCP , Leon was clear that the patient had had recurrent DVTs and ultimately a PE and his PCP felt strongly that he required long-term anticoagulation .
+His goal INR should be 1.6-2.0 . If bleeding continues to occur , consider V. Winchester filter .
+# Access -- 2 large bore PIV's
+# Code -- full
+Medications on Admission :
+Meds on Admission :
+1.) Spironolactone/hctz 25/25 daily
+2.) Atenolol 12.5mg daily
+3.) Insulin 45N/8R qAM and 33N qPM
+4.) Furosemide 10 mg every other day
+5.) Aspirin 81 mg daily
+6.) Zoloft 40 mg qAM
+7.) Flomax
+8.) Atorvastatin 40 mg daily
+9.) Ritalin 20 mg daily
+10.) Ramipril 2.5 mg daily
+11.) Asacol 400 mg 3 , TID
+12.) Carafate 1 gm bid
+13.) Actos 15 mg daily
+14.) Folate 1 mg daily
+15.) Warfarin 2 mg daily
+Discharge Medications :
+1. Tamsulosin 0.4 mg Capsule , Sust . Release 24HR Sig : One ( 1 ) Capsule , Sust . Release 24HR PO HS ( at bedtime ) .
+2. Atorvastatin 40 mg Tablet Sig : One ( 1 ) Tablet PO DAILY ( Daily ) .
+3. Methylphenidate 10 mg Tablet Sig : Two ( 2 ) Tablet PO DAILY ( Daily ) .
+4. Acetaminophen 325 mg Tablet Sig : One ( 1 ) Tablet PO Q4-6H ( every 4 to 6 hours ) as needed .
+5. Folic Acid 1 mg Tablet Sig : One ( 1 ) Tablet PO DAILY ( Daily ) .
+6. Atenolol 25 mg Tablet Sig : 0.5 Tablet PO DAILY ( Daily ) .
+7. Spironolactone 25 mg Tablet Sig : One ( 1 ) Tablet PO DAILY ( Daily ) .
+8. Ramipril 1.25 mg Capsule Sig : Two ( 2 ) Capsule PO DAILY ( Daily ) .
+9. Hydrochlorothiazide 25 mg Tablet Sig : One ( 1 ) Tablet PO DAILY ( Daily ) .
+10. Pioglitazone 15 mg Tablet Sig : One ( 1 ) Tablet PO DAILY ( Daily ) as needed for DM .
+11. Mesalamine 400 mg Tablet , Delayed Release ( E.C. ) Sig : Three ( 3 ) Tablet , Delayed Release ( E.C. ) PO TID ( 3 times a day ) as needed for ulcerative colitis w/o recent severe flares .
+12. Insulin 45 NPH in am with 33 NPH at bedtime
+Continue Sliding scale insulin as needed .
+13. Sertraline 20 mg/mL Concentrate Sig : Two ( 2 )  PO at bedtime .
+14. Coumadin 2 mg Tablet Sig : One ( 1 ) Tablet PO once a day .
+Discharge Disposition : 
+Extended Care
+Facility : 
+Oak Bluffs Of Greenfield
+Discharge Diagnosis :
+Rectal bleeding from inferior mesenteric artery tributaries supplying sigmoid colon .
+Discharge Condition : Good .
+Discharge Instructions : 
+Please call physician if you develop shortness of breath , weakness in your legs or arms , sudden blurry vision or slurred speech , chest pain , faintness , or significant unexplained weight loss .
+Followup Instructions :
+Provider : Lucio Y. Matthews , M.D. Phone : ( 967 ) 675 1641 Date/Time : 2012-12-28 2:30
+Provider :  Greg CLINIC Phone : ( 212 ) 442 0438 Date/Time : 2013-01-11 1:30
+Provider : Lucio F. R. Matthews , M.D. Phone : ( 967 ) 675 1641 Date/Time : 2013-01-11 2:00
+Please call White , Leslie L. at ( 602 ) 743 8709 to schedule an appointment with him in 1 week .
+Please call your gastroenterologist to schedule a follow up appointment in 2 weeks .
+Alan John MD 54-745
+Completed by : Bertha Janice Motta MD 52-860 2012-11-07 @ 1207
+Signed electronically by : DR. Melody PARKS on: WED 2012-11-21 6:22 PM
+( End of Report )
